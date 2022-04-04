@@ -14,14 +14,14 @@ In the Theater Outcomes Based on Launch Date chart (shown below), the number of 
 
 I found there were a high number of successful theater fundraisers in May and June, making up 25% of the data within the successes. I also found the amount of failed productions ranged from 31 to 52 each month throughout the year, with May, July and October being the highest. This tells us the fundraising campaigns might have more success getting fully funded in the summer months.
 
-![This is an image]![image](https://user-images.githubusercontent.com/98570777/161457290-44f07949-8619-49b7-bfb3-7a837232fcc9.png)
+![image](https://user-images.githubusercontent.com/98570777/161457290-44f07949-8619-49b7-bfb3-7a837232fcc9.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 The Outcomes Based on Goals chart (shown below) took the percentages of the successful, failed and canceled play fundraising goals and compared them to the monetary goal that was made for each play. Of the 1047 fundraisers done in the plays subcategory, there were no canceled plays. There were 694 successful campaigns and 353 failed campaigns. The data shows there is no explicit monetary goal amount that will determine the success of a plays' funding. An observation I found to be interesting was the lines on the chart are a mirror image of each other if the x-axis/central line is set at 50%. 
 
-![This is an image]![image](https://user-images.githubusercontent.com/98570777/161457275-b8d042fe-8e1f-4000-976b-3818002d415e.png)
+![image](https://user-images.githubusercontent.com/98570777/161457275-b8d042fe-8e1f-4000-976b-3818002d415e.png)
 
 
 ### Challenges, Limitations, Other Charts
