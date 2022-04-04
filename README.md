@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-To have a better understanding of raising money for a theater production, data was analyzed by comparing entertainment production fundraisers of all types. The productions were compared by gathering data on outcomes, country, time-frame, entertainment category, and financial goals. If the client follows the model of successful fundraisers, then they will have similar success with a fundraiser of their own.
+The goal of this project was to have a better understanding of raising money for a theater production, data was analyzed by comparing entertainment production fundraisers of all types. The productions were compared by gathering data on outcomes, country, time-frame, entertainment category, and financial goals. If the client follows the model of successful fundraisers, then they will have similar success with a fundraiser of their own.
 
 ## Analysis and Challenges
 
@@ -24,12 +24,15 @@ The Outcomes Based on Goals chart (shown below) took the percentages of the succ
 ![image](https://user-images.githubusercontent.com/98570777/161458382-95363e68-4a31-40c2-af45-cf07eef8d58a.png)
 
 
-### Challenges, Limitations, Other Charts
+### Challenges
 A challenge I encountered was not saving my pivot chart data after organizing and drawing conclusions, so I had to go through the process twice for the Outcomes Based on Goals data. A positive point was that it helped me gain more perspective on the data.
 
+### Limitations
 The limitations of the dataset include currency and time standardization. There are 12 different countries in this data set, which leads me to believe there are 12 different time zones and currencies. For transparency, the data used for launch date and monetary goals should have been standardized to the same time zones and currency.  
 
+### Alternate Representations of Data
 A bar chart could have worked to show the differences in each outcome category. A box and whiskers plot could have been a good option in tandem with the line chart to show the distribution of the data.
+
 ## Questions
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
